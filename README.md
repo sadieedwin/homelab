@@ -60,7 +60,7 @@ Current stack:
 * **Node Exporter**
 * **Grafana**
 * **Splunk**
-* **Icinga**
+
 
 The goal is to monitor the infrastructure, visualize system metrics, and practice troubleshooting real-world operational scenarios.
 
@@ -122,41 +122,6 @@ Cloud
 
 ---
 
-## 🗺️ Homelab Overview
-
-```text
-                         Internet
-                            │
-                     ┌──────▼──────┐
-                     │   Router    │
-                     │  / Gateway  │
-                     └──────┬──────┘
-                            │
-                     ┌──────▼──────┐
-                     │   Managed   │
-                     │   Switch    │
-                     └──────┬──────┘
-                            │
-                    ┌───────▼────────┐
-                    │  Proxmox Host  │
-                    │   Dell 3040    │
-                    └───────┬────────┘
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-          ┌───▼───┐     ┌───▼────┐    ┌──▼─────┐
-          │ Apps  │     │Observ-  │    │  LXC   │
-          │  VM   │     │ ability │    │Containers│
-          └───┬───┘     │   VM   │    └────────┘
-              │         └───┬────┘
-       ┌──────┴──────┐      │
-       │             │      │
-   Incident      URL Repo  Grafana
-   Tracker                 Prometheus
-                           Node Exporter
-```
-
----
 
 ## 📌 Status
 
@@ -168,4 +133,4 @@ MONLAB is continuously evolving as I learn new technologies and build new projec
 
 ---
 
-*This repository provides a high-level overview of my homelab. Detailed configuration and operational documentation is maintained separately.*
+*This repository provides an overview of my homelab. Detailed configuration and operational documentation is maintained separately.*
