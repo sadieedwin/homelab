@@ -15,12 +15,20 @@ It's a hands-on environment where I can **build → break → troubleshoot → d
 * **Dell OptiPlex 3040 Mini**
 
   * Proxmox VE
-  * Primary homelab server
+  * Virtualization host
+ 
+* **Dell OptiPlex 3050 Mini**
+
+  * Physical Operations node
+  * Operations server: NGINX, AdGuard Home, Uptime Kuma
+ 
+ * **Dell OptiPlex 7060 SFF**
+
+   * General-purpose Ubuntu Server
+   * File server, test, etc.
 
 * **Custom Desktop**
 
-  * Ryzen 5 5600G
-  * 16 GB RAM
   * Used for additional workloads and experiments
 
 * **TP-Link Managed Switch**
