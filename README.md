@@ -1,14 +1,14 @@
-# 🏠 MONLAB
+# MONLAB
 
 **My personal homelab for learning, experimenting, and building.**
 
-MONLAB is my small home infrastructure environment where I practice Linux administration, networking, virtualization, automation, and observability.
+**monlab** is my small home infrastructure environment where I practice Linux administration, networking, virtualization, automation, and observability.
 
 It's a hands-on environment where I can **build → break → troubleshoot → document → improve**.
 
 ---
 
-## 🖥️ Infrastructure
+## Infrastructure
 
 ### Hardware
 
@@ -46,23 +46,23 @@ It's a hands-on environment where I can **build → break → troubleshoot → d
   
 ---
 
-## ⚙️ Virtualization
+## Virtualization
 
 **Proxmox VE** is currently used as the primary hypervisor.
 
 Current workloads include:
 
-* 🐧 Linux Virtual Machines
-* 📦 LXC Containers
-* 🔐 Bastion Host
-* 📊 Observability Server
-* 🎵 Navidrome
-* 📁 Samba / File Storage
-* 🌐 Web Applications
+* Linux Virtual Machines
+* LXC Containers
+* Bastion Host
+* Observability Server
+* Navidrome
+* Samba / File Storage
+* Web Applications
 
 ---
 
-## 📊 Observability
+## Observability
 
 One of the main purposes of MONLAB is learning observability and monitoring.
 
@@ -78,7 +78,7 @@ The goal is to monitor the infrastructure, visualize system metrics, and practic
 
 ---
 
-## 🌐 Networking
+## Networking
 
 The homelab currently uses a managed network switch and multiple network segments.
 
@@ -95,21 +95,21 @@ Areas I'm experimenting with:
 
 ---
 
-## 🚀 Applications & Projects
+## Applications & Projects
 
 Some applications running in the lab:
 
-* 🚨 **Incident Tracker** — personal incident repo
-* 🔗 **URL Repository** — personal link repository
-* 🎵 **Navidrome** — self-hosted music server
-* 📁 **Samba** — network file sharing
-* 🔐 **Vaultwarden** — planned/self-hosted password management experiment
+* **Incident Tracker** — personal incident repo
+* **URL Repository** — personal link repository
+* **Navidrome** — self-hosted music server
+* **Samba** — network file sharing
+* **Vaultwarden** — planned/self-hosted password management experiment
 
 More projects will be added as the lab evolves.
 
 ---
 
-## 🎯 What I'm Learning
+## What I'm Learning
 
 MONLAB is primarily a learning environment.
 
@@ -133,9 +133,9 @@ SRE
 ---
 
 
-## 📌 Status
+## Status
 
-🟢 **Active**
+**Active**
 
 MONLAB is continuously evolving as I learn new technologies and build new projects.
 
