@@ -2,7 +2,7 @@
 
 **My personal homelab for learning, experimenting, and building.**
 
-MONLAB is my small home infrastructure environment where I practice Linux administration, networking, virtualization, DevOps, automation, and observability.
+MONLAB is my small home infrastructure environment where I practice Linux administration, networking, virtualization, automation, and observability.
 
 It's a hands-on environment where I can **build → break → troubleshoot → document → improve**.
 
@@ -67,7 +67,7 @@ Current stack:
 * **Prometheus**
 * **Node Exporter**
 * **Grafana**
-* **Splunk**
+* **Splunk** (Planned)
 
 
 The goal is to monitor the infrastructure, visualize system metrics, and practice troubleshooting real-world operational scenarios.
@@ -80,14 +80,14 @@ The homelab currently uses a managed network switch and multiple network segment
 
 Areas I'm experimenting with:
 
-* VLANs
-* Network isolation
+* Linux networking
 * Static IPs
 * DHCP
-* Linux networking
 * Firewalling
 * Bastion hosts
 * Service accessibility
+* VLANs
+* Network isolation
 
 ---
 
@@ -95,8 +95,8 @@ Areas I'm experimenting with:
 
 Some applications running in the lab:
 
-* 🚨 **Incident Tracker** — IT incident management application
-* 🔗 **URL Repository** — personal technical link repository
+* 🚨 **Incident Tracker** — personal incident repo
+* 🔗 **URL Repository** — personal link repository
 * 🎵 **Navidrome** — self-hosted music server
 * 📁 **Samba** — network file sharing
 * 🔐 **Vaultwarden** — planned/self-hosted password management experiment
@@ -115,7 +115,6 @@ Current focus areas:
 Linux
 Networking
 Virtualization
-Python
 Bash
 Git
 Docker
@@ -125,7 +124,6 @@ Grafana
 Splunk
 DevOps
 SRE
-Cloud
 ```
 
 ---
