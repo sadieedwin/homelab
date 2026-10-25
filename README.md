@@ -39,7 +39,11 @@ It's a hands-on environment where I can **build → break → troubleshoot → d
 * **Converge Router**
 
   * Internet gateway
+---
+ 
 
+  <img width="440" height="440" alt="monlab" src="https://github.com/user-attachments/assets/824293b0-26dd-4097-8587-214a17d64ff4" />
+  
 ---
 
 ## ⚙️ Virtualization
