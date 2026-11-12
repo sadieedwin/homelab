@@ -103,7 +103,13 @@ Some applications running in the lab:
 * **URL Repository** — personal link repository
 * **Navidrome** — self-hosted music server
 * **Samba** — network file sharing
-* **Vaultwarden** — planned/self-hosted password management experiment
+* **Vaultwarden** — self-hosted password management experiment
+* **AdGuard Home**
+* **Uptime Kuma**
+* **Immich**
+* **NextCloud**
+* **Homarr**
+* **Vikunja**
 
 More projects will be added as the lab evolves.
 
